@@ -1,9 +1,2 @@
-ECHO is on.
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-plotly
-jupyter
+
 
